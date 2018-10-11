@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhishPhinder Outlook Plug-In", "RQReporter\PhishPhinder Outlook Plug-In.csproj", "{D018FCE3-BADF-47C2-B6A7-6E8CEC41A2E9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PhishPhinder Outlook Plug-In Installer", "PhishPhinder Outlook Plug-In Installer\PhishPhinder Outlook Plug-In Installer.vdproj", "{DC338472-9456-411C-8D9D-0CD83DDFE937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D018FCE3-BADF-47C2-B6A7-6E8CEC41A2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D018FCE3-BADF-47C2-B6A7-6E8CEC41A2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D018FCE3-BADF-47C2-B6A7-6E8CEC41A2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D018FCE3-BADF-47C2-B6A7-6E8CEC41A2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC338472-9456-411C-8D9D-0CD83DDFE937}.Debug|Any CPU.ActiveCfg = Debug
+		{DC338472-9456-411C-8D9D-0CD83DDFE937}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B9BF319-DC14-4574-BE85-A1E2E1833DF7}
+	EndGlobalSection
+EndGlobal
